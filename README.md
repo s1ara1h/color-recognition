@@ -11,11 +11,17 @@ A real-time color recognition system that uses OpenCV to detect and classify col
 
 ## 📸 Demo
 
-<img src="black_recognition.png" alt="Black Color Recognition" width="700">
-*Black color recognition on keyboard*
+<p align="center">
+ <img src="black_recognition.png" alt="Black Color Recognition" width="600">
+ <br>
+ <em>Black color recognition on keyboard</em>
+</p>
 
-<img src="white_recognition.png" alt="White Color Recognition" width="700">
-*White color recognition on surface*
+<p align="center">
+ <img src="white_recognition.png" alt="White Color Recognition" width="600">
+ <br>
+ <em>White color recognition on surface</em>
+</p>
 
 ## 📋 Requirements
 
