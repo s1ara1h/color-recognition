@@ -11,10 +11,10 @@ A real-time color recognition system that uses OpenCV to detect and classify col
 
 ## 📸 Demo
 
-![Black Color Recognition](black_recognition.png)
+<img src="black_recognition.png" alt="Black Color Recognition" width="700">
 *Black color recognition on keyboard*
 
-![White Color Recognition](white_recognition.png)
+<img src="white_recognition.png" alt="White Color Recognition" width="700">
 *White color recognition on surface*
 
 ## 📋 Requirements
@@ -118,7 +118,3 @@ The system uses HSV (Hue, Saturation, Value) color space for color recognition:
 You can modify color ranges in the \`COLOR_RANGES\` dictionary to improve recognition accuracy for your lighting conditions.
 
 
-
-console.log(`Total lines: ${lines}`);
-console.log(`Total characters: ${characters}`);
-console.log('Content appears complete with all sections included.');
